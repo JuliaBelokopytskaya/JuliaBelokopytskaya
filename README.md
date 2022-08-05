@@ -1,5 +1,12 @@
 ### Hi, I'm Julia👋
-
+Junior QA Engeener. 
+## Technical Stack
+> JS/C++/Python languages
+> SQL, MongoDB
+> Postman
+> Android Studio
+> Terminal Linux
+> Testing documentation, testing theory 
 <!--
 **JuliaBelokopytskaya/JuliaBelokopytskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +27,4 @@ Here are some ideas to get you started:
    <a href="https://github.com/JuliaBelokopytskaya/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBelokopytskaya&layout=compact"/></a>
 </p>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/JuliaBelokopytskaya/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=JuliaBelokopytskaya&color=DE002D">
-   </a>
-</div>
+
