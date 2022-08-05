@@ -1,5 +1,11 @@
 ### Hi, I'm Julia👋
-Junior QA Engeener. 
+Junior QA Engineer.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=JuliaBelokopytskaya&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=JuliaBelokopytskaya&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/JuliaBelokopytskaya/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBelokopytskaya&layout=compact"/></a>
+</p>
 ## Technical Stack
 * JS/C++/Python languages  
 * SQL, MongoDB  
@@ -21,10 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=JuliaBelokopytskaya&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=JuliaBelokopytskaya&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/JuliaBelokopytskaya/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBelokopytskaya&layout=compact"/></a>
-</p>
+
 
