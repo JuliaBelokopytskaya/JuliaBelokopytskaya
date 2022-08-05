@@ -6,6 +6,7 @@ Junior QA Engineer.
    <a href="https://github.com/JuliaBelokopytskaya/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBelokopytskaya&layout=compact"/></a>
 </p>
+
 ## Technical Stack
 * JS/C++/Python languages  
 * SQL, MongoDB  
