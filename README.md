@@ -1,12 +1,12 @@
 ### Hi, I'm Julia👋
 Junior QA Engeener. 
 ## Technical Stack
-> JS/C++/Python languages
-> SQL, MongoDB
-> Postman
-> Android Studio
-> Terminal Linux
-> Testing documentation, testing theory 
+* JS/C++/Python languages  
+* SQL, MongoDB  
+* Postman  
+* Android Studio  
+* Terminal Linux  
+* Testing documentation, testing theory   
 <!--
 **JuliaBelokopytskaya/JuliaBelokopytskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
