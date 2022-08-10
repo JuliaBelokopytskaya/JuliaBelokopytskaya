@@ -24,6 +24,7 @@ Junior QA Engineer. I was involved in the IBA hackathon as tester, developer, PM
 * Mobile testing, Web application testing
 * Terminal Linux 
 * SQL, MongoDB  
-* Postman  
+* Postman
+* DevTools
 * Android Studio  
 * JS/C++/Python languages    
