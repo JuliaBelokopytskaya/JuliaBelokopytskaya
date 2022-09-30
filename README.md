@@ -1,5 +1,5 @@
 ### Hi, I'm Julia👋
-Junior QA Engineer. I was involved in the IBA hackathon as tester, developer, PM. I help people in solving tasks and finding errors in tasks in the disciplines of IT technologies. I was a mentor at Vadim Ksendzov's software testing courses. I am involved in project ExLab as QA engineer.
+Junior QA Engineer. I was involved in the IBA hackathon as tester, developer, PM. I help people in solving tasks and finding errors in tasks in the disciplines of IT technologies. I was a mentor at Vadim Ksendzov's software testing courses. I am involved in a project ExLab as QA engineer.
 
 <p align='center'>
    <a href="https://drive.google.com/file/d/1KNI3ZOkIBGBWH-F9FBor8bAao16-BVCo/view?usp=sharing">
