@@ -29,4 +29,4 @@
 * Charles
 * Jmeter
 * Android Studio  
-* JS/C++/Python/Java languages    
+* JS/C++/Python/Java/Kotlin languages    
